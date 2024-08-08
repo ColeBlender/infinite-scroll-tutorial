@@ -1,0 +1,1 @@
+ALTER TABLE "posts" RENAME COLUMN "image" TO "image_url";

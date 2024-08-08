@@ -2,8 +2,8 @@
 
 Helpful docs:
 
-- https://supabase.com/docs/guides/auth/server-side/nextjs
-- https://supabase.com/docs/guides/auth/server-side/creating-a-client
+- https://orm.drizzle.team/docs/get-started-postgresql
+- https://orm.drizzle.team/docs/migrations
 
 My links:
 
