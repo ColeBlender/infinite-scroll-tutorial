@@ -9,7 +9,7 @@ function Posts() {
   const [loading, setLoading] = useState(true);
   const [areMorePosts, setAreMorePosts] = useState(true);
 
-  const getPosts = async (page: number) => {
+  const getPosts = async () => {
     setLoading(true);
 
     await new Promise((resolve) => setTimeout(resolve, 1000));
@@ -34,7 +34,7 @@ function Posts() {
 
   useEffect(() => {
     if (areMorePosts) {
-      getPosts(page);
+      getPosts();
     }
   }, [page, areMorePosts]);
 
