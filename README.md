@@ -12,7 +12,6 @@ My links:
 - YouTube 👉 https://youtube.com/@coleblender
 - GitHub 👉 https://github.com/ColeBlender
 - X 👉 https://x.com/ColeBlender
-- IG 👉 https://instagram.com/yazzibelani
 - LinkedIn 👉 https://linkedin.com/in/cole-blender
 
 Video 👉 https://www.youtube.com/watch?v=A4VHzDiSWOg
